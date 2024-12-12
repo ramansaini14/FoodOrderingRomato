@@ -1,0 +1,22 @@
+# Created by RAMAN
+# Edit at NOWHERE
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+.parcel-cache
+dist
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End of 
